@@ -5,7 +5,7 @@ setup(
     version='0.1.1',
     packages=find_packages(),
     install_requires=['requests'],
-    url='https://github.com/labfunny/jetton-price-api',
+    url='https://github.com/labfunny/py-gecko-dex-api',
     license='MIT',
     author='Max',
     description='Unofficial SDK for working with the GeckoTerminal API',
